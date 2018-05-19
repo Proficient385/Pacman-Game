@@ -1,0 +1,43 @@
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\bin\Debug\Pac-man.exe.config
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\bin\Debug\Pac-man.exe
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\bin\Debug\Pac-man.pdb
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac-man.csprojResolveAssemblyReference.cache
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\MainWindow.g.cs
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\App.g.cs
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac-man_MarkupCompile.cache
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac-man_MarkupCompile.lref
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\MainWindow.baml
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac-man.g.resources
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac_man.Properties.Resources.resources
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac-man.csproj.GenerateResource.Cache
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac-man.exe
+D:\School\Software Development I\My Codings\Pac-man\Pac-man\obj\Debug\Pac-man.pdb
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\bin\Debug\Pac-man.exe.config
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.exe
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.pdb
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\bin\Debug\Pac-man.exe
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\bin\Debug\Pac-man.pdb
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.csprojResolveAssemblyReference.cache
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\MainWindow.g.cs
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\App.g.cs
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man_MarkupCompile.cache
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man_MarkupCompile.lref
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\MainWindow.baml
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.g.resources
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac_man.Properties.Resources.resources
+D:\School\Software Development I\My Codings\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.csproj.GenerateResource.Cache
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\bin\Debug\Pac-man.exe.config
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\bin\Debug\Pac-man.exe
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\bin\Debug\Pac-man.pdb
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.csprojResolveAssemblyReference.cache
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\MainWindow.g.cs
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\App.g.cs
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man_MarkupCompile.cache
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man_MarkupCompile.lref
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\MainWindow.baml
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.g.resources
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac_man.Properties.Resources.resources
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.csproj.GenerateResource.Cache
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.csproj.CoreCompileInputs.cache
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.exe
+J:\Pac-man_Copy\Pac-man_Copy\Pac-man\Pac-man\obj\Debug\Pac-man.pdb

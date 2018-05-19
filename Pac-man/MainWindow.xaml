@@ -1,0 +1,41 @@
+﻿<Window x:Class="Pac_man.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pac_man"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" ResizeMode="CanMinimize">
+    <Grid x:Name="PacMan_Window" Background="Black">
+        <Canvas x:Name="Board" Margin="0,0,235,0">
+            <Canvas.Background>
+                <ImageBrush ImageSource="Board.png"/>
+            </Canvas.Background>
+            <Label x:Name="score_label" Content="SCORE" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF0D9C20" FontFamily="Virtual DJ" FontSize="36" Canvas.Left="299" Canvas.Top="109"/>
+            <Label x:Name="Score" Content="000000000" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="298" Canvas.Top="149" FontFamily="LCD" FontSize="36" Foreground="#FFECE210"/>
+            <Label x:Name="score_500" Content="500" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FFE20FD8" FontFamily="Virtual DJ" FontSize="18" FontWeight="Bold" Canvas.Left="455" Canvas.Top="63"/>
+            <Label x:Name="Time_label" Content="Time" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontFamily="Goudy Stout" Foreground="#FFAA0F0F" Canvas.Left="304" Canvas.Top="20"/>
+            <Label x:Name="Time" Content="00000000" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Virtual DJ" Foreground="#FF1A13A4" Canvas.Left="304" Canvas.Top="46" FontSize="24" Width="151"/>
+            <Label x:Name="Level_label" Content="LEVEL" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" FontSize="24" Foreground="#FFA711D3" FontWeight="Bold" FontFamily="Snap ITC" Canvas.Left="304" Canvas.Top="211"/>
+            <Label x:Name="Level" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" FontSize="24" FontFamily="Virtual DJ" FontWeight="Bold" Canvas.Left="304" Canvas.Top="236" Foreground="#FF2E9716"/>
+            <Label x:Name="player" Content="PLAYER" HorizontalAlignment="Left" VerticalAlignment="Top" Width="209" Foreground="#FFD84B16" FontFamily="Wide Latin" FontSize="24" Canvas.Left="298" Canvas.Top="308"/>
+            <Image x:Name="player_1" HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="38" Canvas.Left="304" Canvas.Top="348" Source="pMan_Right1.jpg">
+                <Image.OpacityMask>
+                    <ImageBrush ImageSource="pMan_Right1.jpg"/>
+                </Image.OpacityMask>
+            </Image>
+            <Image x:Name="player_2" HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="28" Canvas.Left="355" Canvas.Top="348" Source="pMan_Right1.jpg"/>
+            <Image x:Name="player_3" HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="37" Source="pMan_Right1.jpg" Canvas.Left="397" Canvas.Top="348"/>
+            <Label x:Name="game_Over" Content="GAME OVER!" HorizontalAlignment="Left" VerticalAlignment="Top" Width="610" FontFamily="Wide Latin" FontSize="48" Foreground="#FFAC0000" Canvas.Left="52" Canvas.Top="242"/>
+            <Button x:Name="button1" Content="PAUSE" HorizontalAlignment="Left" VerticalAlignment="Top" Width="133" Click="button1_Click" Height="34" Foreground="#FF2222C7" Background="#FFD36417" FontSize="24" FontFamily="Snap ITC" Canvas.Left="304" Canvas.Top="437"/>
+            <Button x:Name="restart" Content="Restart" HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" Width="148" Canvas.Left="307" Canvas.Top="486" Background="#FF2EC10D" Foreground="#FFD11717" FontSize="24" FontFamily="Ravie" Click="restart_Click"/>
+            <Button x:Name="Quit" Content="Quit" HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="130" Canvas.Left="307" Canvas.Top="538" Foreground="#FF630C5B" Background="#FFBAD414" FontSize="24" FontFamily="Old English Text MT" FontWeight="Bold" Click="Quit_Click"/>
+        </Canvas>
+        <Canvas x:Name="welcome_Screen">
+            <Canvas.Background>
+                <ImageBrush ImageSource="welcome_Screen.jpg"/>
+            </Canvas.Background>
+        </Canvas>
+
+    </Grid>
+</Window>
